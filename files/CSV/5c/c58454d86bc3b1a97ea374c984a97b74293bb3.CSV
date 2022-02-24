@@ -1,0 +1,30 @@
+;DNI;apellido;nombre;Telefono;usuario;Cargo;Area;JefeInmediato;EstadoCuenta
+1;NULL;AUXILIAR;CONTABLE 02;;auxiliar02@acg.com.pe;CONTADOR;CONTABILIDAD;;REGISTRADO
+2;NULL;AUXILIAR;CONTABLE 03;;auxiliar03@acg.com.pe;CONTADOR;CONTABILIDAD;;REGISTRADO
+3;NULL;AUXILIAR CONTABLE;ONASA HUANCAYO 02;;onasa_huancayo_auxiliar02@acg.com.pe;CONTADOR;CONTABILIDAD;;REGISTRADO
+4;42831297;UNOCC;UNOCC;992255578;junocc@acg.com.pe;CONTADOR;CONTABILIDAD; arivas@acg.com.pe  ;REGISTRADO
+5;NULL;ACG;ASISTENCIA;;asistencia@acg.com.pe;;;;PENDIENTE
+6;NULL;ACG;AUDITORIA;;auditoria@acg.com.pe;;;;PENDIENTE
+7;NULL;ACG;BACKUP 10;;backup10@acg.com.pe;;;;PENDIENTE
+8;NULL;ACG;BACKUP 9;;backup9@acg.com.pe;;;;PENDIENTE
+9;NULL;ACG;BACKUPS;;backups@acg.com.pe;;;;PENDIENTE
+10;NULL;ACG;CIRCULARIZACION;;circularizar@acg.com.pe;;;;PENDIENTE
+11;NULL;ACG;GESTION TALENTO HUMANO;;gestiontalentohumano@acg.com.pe;;;;PENDIENTE
+12;NULL;ACG;NOMINAS;;nominas@acg.com.pe;;;;PENDIENTE
+13;NULL;ACG;NOMINAS1;;nominas01@acg.com.pe;;;;PENDIENTE
+14;NULL;ACG;NOTIFICACIONES;;notificaciones@acg.com.pe;;;;PENDIENTE
+15;NULL;ACG;PLANILLAS;;planillas@acg.com.pe;;;;PENDIENTE
+16;NULL;ACG;SELECCION PERSONAL;;seleccion@acg.com.pe;;;;PENDIENTE
+17;NULL;ASISTENTE CONTABLE;EL CLAN 01;;elclan_asistente01@acg.com.pe;;;;PENDIENTE
+18;NULL;ASISTENTE CONTABLE;FONBIENES 01;;fonbienes_asistente01@acg.com.pe;;;;PENDIENTE
+19;NULL;ATENCION;CLIENTE;;atencionalcliente@acg.com.pe;;;;PENDIENTE
+20;NULL;ATENCION INTERNO;CLIENTE;;atencionclienteinterno@acg.com.pe;;;;PENDIENTE
+21;NULL;AUXIBAR 01;CELSO;;celso_auxibar01@acg.com.pe;;;;PENDIENTE
+22;NULL;AUXILIAR CONTABLE;EL CLAN 01;;auxiliar_elclan01@acg.com.pe;;;;PENDIENTE
+23;NULL;AUXILIAR CONTABLE;DELICASS 01;;delicass_auxiliar01@acg.com.pe;;;;PENDIENTE
+24;NULL;AUXILIAR CONTABLE;OCEANUS 01;;oceanus_auxiliar01@acg.com.pe;;;;PENDIENTE
+25;NULL;CONTABILIDAD;PIMI;;contabiridad01@acg.com.pe;;;;PENDIENTE
+26;NULL;FINANCIERO;AUDITOR;;auditorfinanciero@acg.com.pe;;;;PENDIENTE
+27;NULL;SNI;ADM PERSONAL;;sniadmpersonalynominas@acg.com.pe;;;;PENDIENTE
+28;NULL;TELEFONICA;CONSULTAS;;consultas@acg.com.pe;;;;PENDIENTE
+29;NULL;TESORERIA;PIMI;;tesoreria01@acg.com.pe;;;;PENDIENTE
